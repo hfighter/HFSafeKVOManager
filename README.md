@@ -1,0 +1,2 @@
+# HFSafeKVOManager
+iOS安全的KVO操作，解决由于添加了KVO忘记移除，或者多次移除导致的崩溃问题
